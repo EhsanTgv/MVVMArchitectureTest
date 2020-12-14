@@ -1,4 +1,4 @@
-package com.taghavi.mvvmarchitecture.models
+package com.taghavi.mvvmarchitecture.data.models
 
 import com.google.gson.annotations.SerializedName
 
